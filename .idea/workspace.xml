@@ -6,78 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="820a8d24-37eb-403e-bab5-1e62d1166e19" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/jaxrs_services_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/jaxrs_services_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/.angular-cli.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/client.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/e2e/app.e2e-spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/e2e/app.po.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/e2e/tsconfig.e2e.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/karma.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/protractor.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.component.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.component.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/environments/environment.prod.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/environments/environment.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/main.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/polyfills.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/test.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/tsconfig.app.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/tsconfig.spec.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/src/typings.d.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/tsconfig.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/tslint.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/jaxrs-services.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/EmployeeRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/EmployeeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/jaxrs/JaxRsActivator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/jaxrs/filters/CORSFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/java/com/example/jaxrs/filters/OptionsFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/resources/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/resources/import.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/webapp/WEB-INF/jboss-web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/classes/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/classes/import.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/WEB-INF/classes/import.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/WEB-INF/jboss-web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/jaxrs-services-1.0.0-SNAPSHOT/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="820a8d24-37eb-403e-bab5-1e62d1166e19" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/services/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -507,12 +436,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521771601516</updated>
       <workItem from="1521771605244" duration="769000" />
-      <workItem from="1521772452282" duration="95000" />
+      <workItem from="1521772452282" duration="273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="864000" />
+    <option name="totallyTimeSpent" value="1042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2116" extended-state="6" />
