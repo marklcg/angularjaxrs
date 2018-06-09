@@ -3,12 +3,33 @@
       <div class="navbar-header">
           <span class="navbar-brand">Angular + JaxRS</span>
       </div>
-      <ul class="nav navbar-nav">
-          <li class="active">
-            <a href="#">
-              Employees <span class="sr-only">(current)</span>
-            </a>
-          </li>
-      </ul>
   </div>
 </nav>
+<main class="container">
+  <div class="btn-toolbar" role="toolbar" style="margin-bottom: 16px">
+    <button class="btn btn-default" (click)="refresh()">Refresh</button>
+  </div>
+  <table *ngIf="data" class="table">
+    <thead>
+    <tr>
+      <th>Employee No</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Date of Birth</th>
+      <th>Hire Date</th>
+      <th>Salary</th>
+    </tr>
+    </thead>
+    <tr *ngFor="let employee of data">
+      <td>{{ employee.employeeNo }}</td>
+      <td>{{ employee.firstName }}</td>
+      <td>{{ employee.lastName }}</td>
+      <td>{{ employee.dateOfBirth | date }}</td>
+      <td>{{ employee.hireDate | date }}</td>
+      <td>{{ employee.salary }}</td>
+    </tr>
+  </table>
+  <span *ngIf="!data">
+      <i class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i>
+  </span>
+</main>
